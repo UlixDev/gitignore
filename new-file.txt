@@ -1,5 +1,0 @@
-Some contents in the new file
-
-Another line
-
-Another line again
